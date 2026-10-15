@@ -26,8 +26,6 @@ Spicy Sauce includes one style:
 
 ![Spicy Sauce Font Preview 06](images/Spicy-Sauce-Font-Preview-06.jpg)
 
-![Spicy Sauce Font Preview 07](images/Spicy-Sauce-Font-Preview-07.jpg)
-
 ## Installation
 
 Download `SpicySauce-Regular.ttf` from the `fonts` folder and install it on your system.
@@ -49,6 +47,7 @@ See [OFL.txt](OFL.txt) for the full license text.
 **Resource Boy**
 
 [resourceboy.com](https://resourceboy.com/)
+
 [View the Spicy Sauce font page](https://resourceboy.com/fonts/spicy-sauce-font/)
 
 ---
