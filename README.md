@@ -28,7 +28,7 @@ Spicy Sauce includes one style:
 
 ## Installation
 
-Download `SpicySauce-Regular.ttf` from the `fonts` folder and install it on your system.
+Download `Spicy Sauce.ttf` from the `font` folder and install it on your system.
 
 ## License
 
